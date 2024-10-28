@@ -12,9 +12,6 @@ operend_1 = get_number(1);
 operend_2 = get_number(2);
 operator = input("Sign: ")
 
-
-
-
  
 result = None
 if operator == "+":
